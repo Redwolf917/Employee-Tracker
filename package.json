@@ -1,0 +1,11 @@
+{
+    "name": "employee-management-system",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "dependencies": {
+      "inquirer": "^9.0.0",
+      "pg": "^8.0.0"
+    }
+  }
+  
